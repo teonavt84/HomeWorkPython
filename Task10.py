@@ -5,7 +5,7 @@
 '''
 import random
 n = int(input('Введите количество монет: '))
-array_coin = []
+array_coin = ()
 i = 0
 j = 0
 count_eagle = 0 # орел
